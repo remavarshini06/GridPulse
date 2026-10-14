@@ -1,0 +1,21 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+
+# Spark-generated metadata and checksum files
+**/*.crc
+**/_SUCCESS
+
+# Backup datasets and redundant Spark model
+data/processed/electricity_parquet_backup/
+data/sample/electricity_consumption_2025_backup.csv
+models/demand_random_forest/
+
+data/analytics/
