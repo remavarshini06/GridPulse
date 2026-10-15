@@ -17,6 +17,18 @@ GridPulse is a Big Data Analytics project that analyzes hourly electricity consu
 
 ![GridPulse Dashboard](docs/screenshots/gridpulse-dashboard.png)
 
+### Consumption Analysis
+![Consumption Analysis](docs/screenshots/gridpulse-consumption-analysis.png)
+
+### Demand Forecast
+![Demand Forecast](docs/screenshots/gridpulse-demand-forecast.png)
+
+### Demand Prediction
+![Demand Prediction](docs/screenshots/gridpulse-demand-prediction.png)
+
+### Demand Summary
+![Demand Summary](docs/screenshots/gridpulse-demand-summary.png)
+
 ## Features
 
 - Electricity consumption summary statistics
