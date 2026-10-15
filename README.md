@@ -13,6 +13,10 @@ GridPulse is a Big Data Analytics project that analyzes hourly electricity consu
 - API Health: https://gridpulse-api-7odq.onrender.com/api/health
 - Interactive API Documentation: https://gridpulse-api-7odq.onrender.com/docs
 
+## Dashboard Preview
+
+![GridPulse Dashboard](docs/screenshots/gridpulse-dashboard.png)
+
 ## Features
 
 - Electricity consumption summary statistics
